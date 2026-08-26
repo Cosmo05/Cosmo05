@@ -8,13 +8,11 @@
 
 <h2 data-importer="text" align="left">About me</h2>
 
-###
 
-<br clear="both">
 
-<div data-importer="image" align="right">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW4xcTNtMjNrZ3NveW15ODg2cDRxNzRqYjFkZ25hdzBzYWVscmgxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DwCUzvqR14RpyZbpg8/giphy.gif"  />
-</div>
+
+
+<img data-importer="image" align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW4xcTNtMjNrZ3NveW15ODg2cDRxNzRqYjFkZ25hdzBzYWVscmgxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DwCUzvqR14RpyZbpg8/giphy.gif"  />
 
 ###
 
@@ -43,7 +41,6 @@
 </div>
 
 ###
-<h2 align="left"\>Social Media</h2\>
 
 <div data-importer="socials" align="left">
   <a href="www.linkedin.com/in/adityanatekar" target="_blank">
