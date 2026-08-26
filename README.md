@@ -43,7 +43,7 @@
 </div>
 
 ###
-<h2 align="left"\>Social Media\</h2\>
+<h2 align="left"\>Social Media</h2\>
 
 <div data-importer="socials" align="left">
   <a href="www.linkedin.com/in/adityanatekar" target="_blank">
